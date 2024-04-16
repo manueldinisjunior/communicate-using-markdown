@@ -2,9 +2,9 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  Include a 1280×640 image, a course title in sentence case and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, and auto delete head branches.
+  Add your open-source license, GitHub uses an MIT license.
 -->
 
 # Communicate using Markdown
@@ -15,18 +15,18 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 <!--
   <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
+  Include the start button, a note about Action minutes,
+  and tell the learners why they should take the course.
 -->
 
 ## Welcome
 
-GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emoji, images, and links.
+GitHub is about more than code. It’s a platform for software collaboration, and Markdown is one of the most important ways developers can make their communication clear and organized in issues and pull requests. This course will walk you through creating and using headings more effectively, organizing thoughts in bulleted lists, and showing how much work you’ve completed with checklists. You can even use Markdown to add some depth to your work with the help of emojis, images, and links.
 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: Use Markdown to add lists, images, and links in a comment or text file.
 - **What you'll build**: We'll update a plain text file and add Markdown formatting, and you can use this file to start your own GitHub Pages site.
-- **Prerequisites**: In this course you will work with pull requests as well as edit files. If these things aren't familiar to you, we recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course, first!
+- **Prerequisites**: In this course, you will work with pull requests as well as edit files. If these things aren't familiar to you, we recommend you take the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course, first!
 - **How long**: This course takes less than one hour to complete.
 
 In this course, you will:
@@ -39,7 +39,7 @@ In this course, you will:
 
 ### How to start this course
 
-<!-- For start course, run in JavaScript:
+<!-- For the start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
   template_owner: 'skills',
   template_name: 'communicate-using-markdown',
@@ -63,7 +63,7 @@ In this course, you will:
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Add a link to get support, a GitHub status page, a code of conduct, license link.
 -->
 
 ---
